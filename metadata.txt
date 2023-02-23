@@ -1,0 +1,7 @@
+[general]
+name=Distance of Point
+description=This plugin calculates a distance between two points.
+version=1.0
+qgisMinimumVersion=3.0
+author=Sarper Taga
+email=sarpertaga@gmail.com
